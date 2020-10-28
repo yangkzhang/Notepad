@@ -1,0 +1,5 @@
+This package, the Notepad is licensed under the MPL 2.0. For
+the MPL, please see LICENSE-MPL-Notepad.
+
+If you have any questions regarding licensing, please contact us at
+1389896172@qq.com.
