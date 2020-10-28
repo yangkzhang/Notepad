@@ -15,7 +15,7 @@ import java.util.regex.*;
 
 public class Notepad {
 	private static void createAndShowGUI(){
-		JFrame win = new FirstWindow("张杨扩");
+		JFrame win = new FirstWindow("notepad");
 	}
 	public static void main(String[] args) {
        //为事件调度线程安排一个任务
@@ -309,7 +309,7 @@ class FirstWindow extends JFrame implements ActionListener, DocumentListener,Car
 					         "<font size = +4><font color = green>Window7旗舰版<font>\n"+
 							"________________________________________\n"+
 							 "<font size = -1>microsoft windows<font>\n"+
-							"<font size = -1>版权所有归张杨扩<font>\n"+
+							"<font size = -1>版权所有归notepad<font>\n"+
 							 "<font color = red>知识产权要受到保护<font>\n"+
 							 "</html>\n";
 			label=new JLabel(iaital);
